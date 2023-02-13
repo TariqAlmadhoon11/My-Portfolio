@@ -121,13 +121,14 @@ margin-bottom:30px ;
 .def button{
   background-color: var(--main-color) ;
   width: 80px;
-  height: 36px;
-  border-radius: 20px;
+  height: 39px;
+  border-radius: 0 20px 20px 0;
   color: white;
-  position: absolute;
-   left: 445px;
-   bottom: 147px;
+  /* position: absolute;
+    left: 445px;
+   bottom: 147px; */
    border: none;
+  border: 2px solid white;
 
 }
 
